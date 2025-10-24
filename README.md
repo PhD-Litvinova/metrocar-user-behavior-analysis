@@ -94,7 +94,7 @@ The dataset includes user activity from the moment of app installation to ride c
 ---
 
 **Author:** Iryna Litvinova  
-📍 Ukraine | 🌐 [LinkedIn(https://www.linkedin.com/in/irynalitvinova/) | 🧰 Tools: Excel, SQL, Python, Data Studio
+📍 Ukraine | 🌐 [LinkedIn(https://www.linkedin.com/in/irynalitvinova/) | 🧰 Tools: Excel, Tableau
 
 ---
 
